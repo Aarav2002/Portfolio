@@ -37,7 +37,7 @@ function Home2() {
               to ensure seamless deployment and maintenance of applications.
               <br />
               <br />
-              I'm particularly passionate about creating
+              I&apos;m particularly passionate about creating
 <i>
   <b className="purple">
     {" "}

@@ -9,7 +9,7 @@ function AboutCard() {
         <p className="text-justify">
   Hello everyone, I am <span className="purple">Shubham</span> from <span className="purple">Bokaro, India.</span>
   <br />
-  I am a 3rd-year B.Tech student at Lovely Professional University, Phagwara, India, pursuing a degree in Computer Scinece and Engineering.
+  I am a 3rd-year B.Tech student at Lovely Professional University, Phagwara, India, pursuing a degree in Computer Science and Engineering.
             <br />
             <br />
             When I&apos;m not diving deep into code, here’s what I love to do:
