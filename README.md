@@ -42,7 +42,7 @@ Welcome to my portfolio project! This dynamic and responsive portfolio is built 
 
 1. **Clone the repo**:
    ```sh
-   git clone https://github.com/Jagadeeshftw/Next_Level_Portfolio.git
+   git clone https://github.com/Aarav2002/Portfolio.git
    ```
 2. **Install dependencies**:
    ```sh
@@ -66,7 +66,7 @@ npm run build
 
 ### 🌐 Deployment
 
-This project is deployed using Netlify. You can view the live site [here](https://jagadeeshftw.netlify.app/).
+This project is deployed using Netlify. You can view the live site [here](https://portfolio-blue-alpha-27.vercel.app/).
 
 ## 📈 Performance Optimizations
 
@@ -83,14 +83,10 @@ Contributions are welcome! Please fork this repository and create a pull request
 4. **Push to the Branch** (`git push origin feature/AmazingFeature`)
 5. **Open a Pull Request**
 
-## 📝 License
-
-This project is licensed under the MIT License.
-
 ## 📧 Contact
 
-Jagadeesh B - [LinkedIn](https://www.linkedin.com/in/jagadeesh-b-042b38208/) - [Email](mailto:jagadeesh26062002@gmail.com)
+Shubham Kumar - [LinkedIn](https://www.linkedin.com/in/shubham-kumar0702/)
 
-Project Link: [GitHub](https://github.com/Jagadeeshftw/Next_Level_Portfolio)
+Project Link: [GitHub](https://github.com/Aarav2002/Portfolio)
 
-Made with ❤️ by Jagadeesh B
+Made with ❤️ by Shubham Kumar
