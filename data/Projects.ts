@@ -59,7 +59,7 @@ const Projects = [
       },
     ],
     Image: nft_ocean,
-    DemoLink: "https://aarav2002.github.io/Glyceracare/",
+    DemoLink: "https://glyceracare.vercel.app/",
     ProjectLink: "https://github.com/Aarav2002/Glyceracare",
   },
 
