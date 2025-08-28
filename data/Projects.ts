@@ -147,7 +147,7 @@ const Projects = [
 
   {
     Id: 4,
-    Title: "DSA Visualization",
+    Title: "AlgoCanvas",
     Description:
       "Built an interactive DSA algorithm visualization tool to simulate algorithm execution, enhancing user engagement.",
     oneLineDescription: "Path finding and maze generation using algorithms.",
@@ -178,8 +178,8 @@ const Projects = [
       },
     ],
     Image: pathVisualization,
-    DemoLink: "/",
-    ProjectLink: "/",
+    DemoLink: "https://algocanvas.netlify.app/",
+    ProjectLink: "https://algocanvas.netlify.app/",
   },
 ];
 
